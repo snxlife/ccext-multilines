@@ -1,0 +1,22 @@
+{
+    "qiming.multilines.name": "Multilines",
+    "qiming.multilines.description": "Enhanced multi-line input anywhere.",
+    "qiming.multilines.category": "Multilines",
+    "qiming.multilines.error_code": "Err Code",
+    "qiming.multilines.error_msg": "Err Message",
+    "qiming.multilines.add_field": "Add Field [ID] [STATE]",
+    "qiming.multilines.set_field_state": "Set Field State [ID] [STATE]",
+    "qiming.multilines.set_field_style": "Set Field Style [ID] [STYLE]",
+    "qiming.multilines.get_field_state": "Get Field State [ID] [KEY]",
+    "qiming.multilines.set_field_value": "Set Field Value [ID] [VALUE]",
+    "qiming.multilines.get_field_value": "Get Field Value [ID] [FORMATTER]",
+    "qiming.multilines.remove_field": "Remove Field [ID]",
+    "qiming.multilines.get_formatter": "Get Field Formatter [FORMATTER] [ARGS]",
+    "qiming.multilines.formatter.null": "(Null)",
+    "qiming.multilines.formatter.replace": "Replace",
+    "qiming.multilines.get_static_style": "Preset Style [TYPE]",
+    "qiming.multilines.static_styles.light_rounded": "Light & Rounded",
+    "qiming.multilines.static_styles.light": "Light",
+    "qiming.multilines.static_styles.dark_rounded": "Dark & Rounded",
+    "qiming.multilines.static_styles.dark": "Dark"
+}
